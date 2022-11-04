@@ -1,3 +1,3 @@
 # implementReading
 
-[주소에 대한 설명](http://www.google.co.kr).
+[Notion 연결](https://www.notion.so/bf069af952e7440b984e649f86440a1e).
