@@ -4,6 +4,7 @@
 //
 //  Created by Rocket on 2022/11/04.
 //
+// 시작 화면
 
 import SwiftUI
 
